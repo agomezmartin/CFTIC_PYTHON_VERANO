@@ -1,1 +1,3 @@
-# CFTIC_PYTHON_VERANO
+# CFTIC_PYTHON_VERANO ![Pythonlogo](/assets/python.png)
+
+
